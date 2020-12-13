@@ -1,6 +1,8 @@
 <?php
 
-/** @copyright Sven Ullmann <kontakt@sumedia-webdesign.de> **/namespace BricksFramework\PriorityObjectList\Exception;
+/** @copyright Sven Ullmann <kontakt@sumedia-webdesign.de> **/
+
+namespace BricksFramework\PriorityObjectList\Exception;
 
 use BricksFramework\Exception\InvalidArgumentException;
 

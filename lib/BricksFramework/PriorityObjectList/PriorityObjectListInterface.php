@@ -1,6 +1,8 @@
 <?php
 
-/** @copyright Sven Ullmann <kontakt@sumedia-webdesign.de> **/namespace BricksFramework\PriorityObjectList;
+/** @copyright Sven Ullmann <kontakt@sumedia-webdesign.de> **/
+
+namespace BricksFramework\PriorityObjectList;
 
 interface PriorityObjectListInterface
 {
